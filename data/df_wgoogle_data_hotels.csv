@@ -1,0 +1,204 @@
+,Index,Hotel,Location,Country,Region,Company,Score,Rank,Rooms,Hotel_type,Theme,Year,Century,2021_Rank,Past_rank,Rank_Year,Google_Rate,Google_Habs,Google_Location,Google_Service
+0,1,Rosewood Castiglion del Bosco,Montalcino,Italy,Europe,Massimo and Chiara Ferragamo,99.25,1,53,Small,Countryside,2000,21,0.0,0.0,2022,4.8,4.3,4.1,4.6
+1,2,Grace Hotel,Santorini,Greece,Europe,Auberge Resorts Collection,99.22,2,20,Small,Coastal,2000,21,1.0,6.0,2022,4.6,4.8,4.6,4.5
+2,107,Grace Hotel,Santorini,Greece,Europe,Auberge Resorts Collection,99.18,6,139,Small,Coastal,2008,21,0.0,0.0,2021,4.6,4.8,4.6,4.5
+3,3,Waldorf Astoria Maldives Ithaafushi,Ithaafushi Island,Maldives,Southeast Asia,Hilton,99.11,3,119,Small,Island,2019,21,1.0,80.0,2022,4.7,4.6,4.6,4.6
+4,185,Waldorf Astoria Maldives Ithaafushi,Ithaafushi Island,Maldives,Southeast Asia,Hilton,97.0,80,119,Small,Island,2019,21,0.0,0.0,2021,4.7,4.6,4.6,4.6
+5,4,Pickering House Inn,Wolfeboro,United States,North America,Peter and Patty Cooke ,98.95,4,10,Small,Boutique ,1813,19,1.0,34.0,2022,4.6,4.8,4.6,4.5
+6,4,Pickering House Inn,Wolfeboro,United States,North America,Peter and Patty Cooke ,98.95,4,10,Small,Boutique ,1813,19,1.0,34.0,2022,4.9,0.0,0.0,0.0
+7,135,Pickering House Inn,Wolfeboro,United States,North America,Peter and Patty Cooke ,98.11,34,10,Small,Contemporary ,2018,21,0.0,0.0,2021,4.6,4.8,4.6,4.5
+8,135,Pickering House Inn,Wolfeboro,United States,North America,Peter and Patty Cooke ,98.11,34,10,Small,Contemporary ,2018,21,0.0,0.0,2021,4.9,0.0,0.0,0.0
+9,5,One&Only Reethi Rah,North Malé Atoll,Maldives,Southeast Asia,Kerzner International,98.93,5,130,Small,Island,2005,21,0.0,0.0,2022,4.9,4.1,4.6,4.2
+10,6,Royal Mansour Marrakech,Marrakech,Morocco,Africa,King of Morocco,98.93,5,53,Small,Palace,2010,21,0.0,0.0,2022,4.8,4.2,4.8,4.3
+11,7,Capella Ubud,Bali,Indonesia,Southeast Asia,Pontiac Land Group,98.97,7,23,Small,Nature,2018,21,1.0,5.0,2022,4.7,3.7,3.8,3.4
+12,106,Capella Ubud,Bali,Indonesia,Southeast Asia,Pontiac Land Group,99.34,5,23,Small,Nature,2018,21,0.0,0.0,2021,4.7,3.7,3.8,3.4
+13,8,The Lowell,New York,United States,North America,Fouad Chartouni,98.8,8,74,Small,Contemporary ,1927,20,0.0,0.0,2022,4.6,0.0,0.0,0.0
+14,9,Hôtel Madame Rêve,Paris,France,Europe,Laurent Taïeb Group,98.73,9,82,Small,Contemporary ,1850,19,0.0,0.0,2022,4.4,4.2,4.8,3.9
+15,10,Rosewood Villa Magna,Madrid,Spain,Europe,RLH Properties,98.67,10,154,Medium,Contemporary ,1972,20,0.0,0.0,2022,4.5,0.0,0.0,0.0
+16,11,The Oberoi New Delhi,New Delhi,India,Southeast Asia,The Oberoi Group,98.67,10,220,Medium,Contemporary ,1965,20,1.0,10.0,2022,4.6,4.8,4.7,4.5
+17,111,The Oberoi New Delhi,New Delhi,India,Southeast Asia,The Oberoi Group,98.9,10,220,Medium,Contemporary ,1965,20,0.0,0.0,2021,4.6,4.8,4.7,4.5
+18,12,The Oberoi Udaivilas,Udaipur,India,Southeast Asia,The Oberoi Group,98.58,12,87,Small,Palace,2007,21,1.0,8.0,2022,4.8,4.5,4.8,4.8
+19,109,The Oberoi Udaivilas,Udaipur,India,Southeast Asia,The Oberoi Group,99.12,8,87,Small,Palace,2007,21,0.0,0.0,2021,4.8,4.5,4.8,4.8
+20,13,"Mandapa, a Ritz-Carlton Reserve",Bali,Indonesia,Southeast Asia,Marriott International,98.31,13,60,Small,Nature,2015,21,1.0,80.0,2022,4.7,4.9,4.3,4.9
+21,183,"Mandapa, a Ritz-Carlton Reserve",Bali,Indonesia,Southeast Asia,Marriott International,97.0,80,60,Small,Nature,2015,21,0.0,0.0,2021,4.7,4.9,4.3,4.9
+22,14,Wilderness Safaris Bisate Lodge,Musanze,Rwanda,Africa,Wilderness Safaris,98.29,14,6,Small,Safari,2017,21,0.0,0.0,2022,4.7,0.0,0.0,0.0
+23,15,Portrait Firenze,Florence,Italy,Europe,Lungarno Collection,98.25,15,37,Small,Boutique ,2014,21,0.0,0.0,2022,4.8,4.7,4.8,4.6
+24,16,Raffles Istanbul,Istanbul,Turkey,Middle East,Accor,97.72,16,136,Small,Contemporary ,2014,21,1.0,47.0,2022,4.8,4.7,4.8,4.8
+25,148,Raffles Istanbul,Istanbul,Turkey,Middle East,Accor,97.72,47,136,Small,Contemporary ,2014,21,0.0,0.0,2021,4.8,4.7,4.8,4.8
+26,17,The Oberoi Marrakech,Marrakech,Morocco,Africa,The Oberoi Group,98.24,17,84,Small,Palace,2019,21,0.0,0.0,2022,4.8,4.8,4.4,4.7
+27,18,Capella Hanoi,Hanoi,Vietnam,Southeast Asia,Pontiac Land Group,98.18,18,47,Small,Boutique ,2021,21,0.0,0.0,2022,4.8,0.0,0.0,0.0
+28,19,White Elephant Palm Beach,Palm Beach,United States,North America,New England Development ,98.13,19,32,Small,Boutique ,2020,21,0.0,0.0,2022,4.5,0.0,0.0,0.0
+29,20,The Loutrel,Charleston,United States,North America,Spaulding Slye Investments,98.0,20,50,Small,Contemporary ,2021,21,0.0,0.0,2022,4.9,4.8,4.8,4.5
+30,21,Monasterio,Cusco,Peru,Latin America,LVMH,97.87,21,122,Small,Palace,1592,16,0.0,0.0,2022,4.8,4.2,4.7,4.9
+31,22,Sani Asterias,Kassandra ,Greece,Europe,LBRI SCA,97.87,21,57,Small,Beachfront,2003,21,0.0,0.0,2022,4.6,4.5,3.3,5.0
+32,23,Shangri-La the Shard,London,England,Europe,Kerry Properties,97.86,23,202,Medium,Contemporary ,2014,21,1.0,19.0,2022,4.5,4.3,4.5,4.0
+33,120,Shangri-La the Shard,London,England,Europe,Kerry Properties,98.57,19,202,Medium,Contemporary ,2014,21,0.0,0.0,2021,4.5,4.3,4.5,4.0
+34,24,Coquillade Provence Resort & Spa,Gargas,France,Europe,Coquillade ,97.82,24,63,Small,Countryside,2008,21,0.0,0.0,2022,4.6,0.0,0.0,0.0
+35,25,Taj Palace,New Delhi,India,Southeast Asia,India Hotels Company Limited,97.6,25,403,Big,Palace,1903,20,1.0,57.0,2022,4.7,3.7,4.4,4.2
+36,159,Taj Palace,New Delhi,India,Southeast Asia,India Hotels Company Limited,97.56,57,403,Big,Palace,1903,20,0.0,0.0,2021,4.7,3.7,4.4,4.2
+37,26,Pendry Chicago,Chicago,United States,North America,Montage Hotels & Resorts,97.6,25,364,Big,Contemporary ,1927,20,0.0,0.0,2022,4.6,0.0,0.0,0.0
+38,27,Nayara Tented Camp,La Fortuna,Costa Rica,Latin America,Nayara Resorts,97.55,27,29,Small,Nature,2019,21,1.0,2.0,2022,4.9,4.7,4.9,4.8
+39,28,Hotel Belmar,Monteverde,Costa Rica,Latin America,Pedro Belmar,97.5,28,26,Small,Nature,1985,20,0.0,0.0,2022,4.5,3.8,4.3,4.5
+40,29,Royal Champagne Hôtel & Spa,Champillon,France,Europe,Champagne Hospitality,97.5,28,47,Small,Countryside,2018,21,0.0,0.0,2022,4.5,4.8,4.8,4.4
+41,30,Under Canvas Mount Rushmore,Keystone,United States,North America,KSL Capital Partners,97.47,30,74,Small,Nature,2009,21,0.0,0.0,2022,4.7,4.2,4.2,4.8
+42,31,Riggs Washington D.C.,Washington,United States,North America,Global Holdings Management Group,97.45,31,181,Medium,Palace,1891,19,0.0,0.0,2022,4.6,0.0,0.0,0.0
+43,32,Waldorf Astoria Los Cabos Pedregal,Cabo San Lucas,Mexico,Latin America,Hilton,97.45,31,115,Small,Coastal,2019,21,0.0,0.0,2022,4.8,0.0,0.0,0.0
+44,33,The Oberoi Vanyavilas Wildlife Resort,Ranthambhore,India,Southeast Asia,The Oberoi Group,97.45,33,25,Small,Nature,2001,21,1.0,14.0,2022,4.7,4.2,4.3,4.7
+45,115,The Oberoi Vanyavilas Wildlife Resort,Ranthambhore,India,Southeast Asia,The Oberoi Group,98.72,14,25,Small,Nature,2001,21,0.0,0.0,2021,4.7,4.2,4.3,4.7
+46,34,Canaves Oia Epitome ,Santorini,Greece,Europe,Chaidemenos family,97.41,33,24,Small,Coastal,2018,21,1.0,24.0,2022,4.8,4.8,4.4,4.7
+47,125,Canaves Oia Epitome ,Santorini,Greece,Europe,Yiannis and Anna Chaidemenos,98.44,24,24,Small,Coastal,2018,21,0.0,0.0,2021,4.8,4.8,4.4,4.7
+48,35,The Standard ,Hua Hin,Thailand,Southeast Asia,Standard International,97.38,35,199,Medium,Beachfront,2021,21,0.0,0.0,2022,4.3,0.0,0.0,0.0
+49,36,The Oberoi Amarvilas,Agra,India,Southeast Asia,The Oberoi Group,97.37,36,102,Small,Palace,2000,21,1.0,65.0,2022,4.7,4.8,4.7,4.5
+50,166,The Oberoi Amarvilas,Agra,India,Southeast Asia,The Oberoi Group,97.44,65,102,Small,Palace,2000,21,0.0,0.0,2021,4.7,4.8,4.7,4.5
+51,37,Hotel Santa Caterina,Amalfi,Italy,Europe,Gambardella family,97.33,37,66,Small,Coastal,1904,20,0.0,0.0,2022,4.7,4.2,4.8,4.1
+52,38,Raffles Grand Hotel d'Angkor,Siem Reap,Cambodia,Southeast Asia,Lodgis Hospitality Holdings,97.33,37,119,Small,Palace,1932,20,0.0,0.0,2022,4.6,4.1,5.0,5.0
+53,39,Nihi Sumba,Sumba,Indonesia,Southeast Asia,Christopher Burch,97.33,37,28,Small,Beachfront,2001,21,1.0,36.0,2022,4.7,4.9,5.0,4.3
+54,137,Nihi Sumba,Sumba,Indonesia,Southeast Asia,Christopher Burch,98.0,36,28,Small,Coastal,2001,21,0.0,0.0,2021,4.7,4.9,5.0,4.3
+55,40,La Réserve Paris,Paris,France,Europe,La Réserve Hotels,97.26,40,40,Small,Palace,1854,19,0.0,0.0,2022,4.7,4.7,4.9,4.7
+56,41,Hotel de la Ville,Rome,Italy,Europe,Rocco Forte Hotels,97.17,41,104,Small,Palace,1921,20,0.0,0.0,2022,4.5,0.0,0.0,0.0
+57,42,Il San Pietro di Positano,Positano,Italy,Europe,"Virginia Attanasio, Carlo and Vito Cinque",97.12,42,57,Small,Coastal,1970,20,0.0,0.0,2022,4.8,4.9,4.8,4.8
+58,43,Six Senses Yao Noi,Koh Yao Noi,Thailand,Southeast Asia,InterContinental Hotels Group,97.07,43,56,Small,Beachfront,2007,21,0.0,0.0,2022,4.8,3.0,4.1,4.7
+59,44,Finca Cortesin Hotel Golf & Spa,Málaga,Spain,Europe,Finca Cortesin,96.97,44,67,Small,Countryside,2009,21,1.0,100.0,2022,4.7,0.0,0.0,0.0
+60,201,Finca Cortesin Hotel Golf & Spa,Málaga,Spain,Europe,Finca Cortesin,96.63,100,67,Small,Nature,2009,21,0.0,0.0,2021,4.7,0.0,0.0,0.0
+61,45,Secret Bay,Portsmouth,Dominica,Caribbean,Gregor Nassief,96.97,45,10,Small,Coastal,2011,21,0.0,0.0,2022,4.7,4.1,4.3,3.8
+62,46,Cape Grace,Cape Town,South Africa,Africa,Kasada Capital Management,96.96,46,120,Small,Palace,1996,20,0.0,0.0,2022,4.7,4.4,4.9,4.9
+63,47,Taj Lake Palace,Udaipur,India,Southeast Asia,India Hotels Company Limited,96.92,47,83,Small,Palace,1743,18,0.0,0.0,2022,4.7,4.3,4.8,4.7
+64,48,Taj Falaknuma Palace,Hyderabad,India,Southeast Asia,India Hotels Company Limited,96.92,47,60,Small,Palace,1894,19,0.0,0.0,2022,4.6,4.5,4.5,4.8
+65,49,Alila Villas Uluwatu,Bali,Indonesia,Southeast Asia,Hyatt,96.88,49,67,Small,Coastal,2009,21,0.0,0.0,2022,4.8,4.7,5.0,4.6
+66,50,Manoir Hovey,North Hatley,Canada,North America,Stafford family,96.83,50,36,Small,Manor,1900,20,1.0,23.0,2022,4.7,4.0,4.7,4.7
+67,124,Manoir Hovey,North Hatley,Canada,North America,Relais & Châteaux ,98.48,23,36,Small,Coastal,1900,20,0.0,0.0,2021,4.7,4.0,4.7,4.7
+68,51,Six Senses Con Dao,Con Dao,Vietnam,Southeast Asia,InterContinental Hotels Group,96.8,51,50,Small,Beachfront,2010,21,0.0,0.0,2022,4.7,4.4,4.8,4.4
+69,52,Cavas Wine Lodge,Mendoza,Argentina,Latin America,Relais & Chateaux,96.8,51,18,Small,Countryside,2005,21,0.0,0.0,2022,4.7,0.0,0.0,0.0
+70,53,Grand Hotel Tremezzo,Tremezzina,Italy,Europe,De Santis family,96.8,53,92,Small,Palace,1910,20,0.0,0.0,2022,4.7,4.0,4.8,4.2
+71,54,Nayara Springs,San Carlos,Costa Rica,Latin America,Nayara Resorts,96.79,54,16,Small,Nature,2013,21,0.0,0.0,2022,4.9,0.0,0.0,0.0
+72,55,Lodge on Little St. Simons Island,St Simons Island,United States,North America,Paulson family,96.76,55,16,Small,Lodge,1928,20,0.0,0.0,2022,4.8,0.0,0.0,0.0
+73,56,Rancho Santana,Tola,Nicaragua,Latin America,Tola Development Group,96.75,56,17,Small,Coastal,2015,21,0.0,0.0,2022,4.7,4.2,4.1,4.2
+74,57,Amanpuri,Phuket,Thailand,Southeast Asia,Aman Group Sarl,96.67,57,72,Small,Beachfront,1987,20,0.0,0.0,2022,4.7,4.1,4.6,4.8
+75,58,Mandarin Oriental Marrakech,Marrakech,Morocco,Africa,Jardine Matheson,96.67,57,63,Small,Palace,2015,21,0.0,0.0,2022,4.6,4.4,4.6,4.7
+76,59,Namale Resort & Spa,Savusavu,Fiji,Oceania,Tony Robbins,96.64,59,19,Small,Nature,1967,20,0.0,0.0,2022,4.5,0.0,0.0,0.0
+77,60,Gibb's Farm,Karatu,Tanzania,Africa,Rick and Judi,96.63,60,21,Small,Lodge,1929,20,1.0,53.0,2022,4.7,0.0,0.0,0.0
+78,154,Gibb's Farm,Karatu,Tanzania,Africa,Rick and Judi,97.63,53,21,Small,Nature,1929,20,0.0,0.0,2021,4.7,0.0,0.0,0.0
+79,61,Jade Mountain,Soufrière,St. Lucia,Caribbean,Nick and Karolin Troubetzkoy,96.63,61,79,Small,Nature,2006,21,1.0,78.0,2022,4.7,4.8,4.2,4.9
+80,179,Jade Mountain,Soufrière,St. Lucia,Caribbean,Nick Troubetzkoy,97.1,78,79,Small,Nature,2006,21,0.0,0.0,2021,4.7,4.8,4.2,4.9
+81,62,Borgo Egnazia,Fasano,Italy,Europe,Aldo Melpignano,96.6,62,185,Medium,Mediterranean ,2009,21,0.0,0.0,2022,4.7,4.1,4.4,4.0
+82,63,Four Seasons Hotel Kyoto,Kyoto,Japan,Asia,Four Seasons,96.57,63,123,Small,Contemporary ,2016,21,0.0,0.0,2022,4.6,0.0,0.0,0.0
+83,64,San Ysidro Ranch,Santa Barbara,United States,North America,Ty Warner,96.57,63,41,Small,Countryside,1893,19,0.0,0.0,2022,4.6,5.0,4.8,0.0
+84,65,The Goring,London,England,Europe,The Goring Family,96.55,65,69,Small,Palace,1910,20,1.0,56.0,2022,4.6,3.2,5.0,4.7
+85,157,The Goring,London,England,Europe,The Goring Family,97.57,56,69,Small,Palace,1910,20,0.0,0.0,2021,4.6,3.2,5.0,4.7
+86,66,The Oberoi Rajvilas,Jaipur,India,Southeast Asia,The Oberoi Group,96.52,66,54,Small,Palace,1997,20,1.0,51.0,2022,4.6,4.8,3.8,4.6
+87,152,The Oberoi Rajvilas,Jaipur,India,Southeast Asia,The Oberoi Group,97.66,51,54,Small,Palace,1997,20,0.0,0.0,2021,4.6,4.8,3.8,4.6
+88,67,Palm Island Resort,Palm Island,Saint Vincent and the Grenadines,Caribbean,James Lane and Rob Barrett,96.5,67,43,Small,Island,1968,20,0.0,0.0,2022,4.4,0.0,0.0,0.0
+89,68,Hotel Savoy,Florence,Italy,Europe,Rocco Forte Hotels,96.47,68,80,Small,Contemporary ,1893,19,0.0,0.0,2022,4.5,0.0,0.0,0.0
+90,69,Rambagh Palace,Jaipur,India,Southeast Asia,India Hotels Company Limited,96.44,69,78,Small,Palace,1835,19,1.0,88.0,2022,4.7,4.5,4.7,4.7
+91,190,Rambagh Palace,Jaipur,India,Southeast Asia,India Hotels Company Limited,96.87,88,78,Small,Palace,1835,19,0.0,0.0,2021,4.7,4.5,4.7,4.7
+92,70,Curtain Bluff,Saint John's,Antigua,Caribbean,Hulford family,96.44,69,72,Small,Beachfront,1962,20,0.0,0.0,2022,4.7,4.5,0.0,0.0
+93,71,"Morrison House Old Town Alexandria, Autograph Collection",Alexandria,United States,North America,Marriott International,96.42,71,45,Small,Contemporary ,1864,19,0.0,0.0,2022,4.4,3.7,4.7,4.6
+94,72,"The Lytle Park Hotel, Autograph Collection",Cincinnati,United States,North America,Marriott International,96.42,71,106,Small,Contemporary ,2019,21,0.0,0.0,2022,4.7,4.2,3.8,4.7
+95,73,Twin Farms,Barnard,United States,North America,Thurston Twigg-Smith,96.42,73,20,Small,Lodge,1993,20,0.0,0.0,2022,4.7,4.1,4.8,0.0
+96,74,Deer Path Inn,Lake Forest,United States,North America,Lake Forest Investments,96.4,74,55,Small,Manor,1929,20,0.0,0.0,2022,4.7,0.0,0.0,0.0
+97,75,One&Only Nyungwe House,Nyamasheke Nyungwe Forest Reserve,Rwanda,Africa,Kerzner International,96.36,75,22,Small,Nature,2010,21,0.0,0.0,2022,4.8,5.0,5.0,0.0
+98,76,W Santiago,Las Condes,Chile,Latin America,Marriott International,96.36,75,196,Medium,Contemporary ,2009,21,0.0,0.0,2022,4.6,3.5,4.4,3.7
+99,77,Shangri-La Singapore,Singapore,Singapore,Southeast Asia,Kerry Properties,96.33,77,792,Mega,Contemporary ,1971,20,0.0,0.0,2022,4.6,4.2,3.8,4.3
+100,78,L'Ermitage Beverly Hills,Beverly Hills,United States,North America,EOS Investors,96.28,78,116,Small,Contemporary ,1975,20,0.0,0.0,2022,4.6,0.0,0.0,0.0
+101,79,Silo Hotel,Cape Town,South Africa,Africa,The Royal Portfolio,96.27,79,28,Small,Contemporary ,2017,21,0.0,0.0,2022,4.6,5.0,4.8,3.8
+102,80,Katikies Santorini,Santorini,Greece,Europe,Katikies Resorts & Club,96.24,80,34,Small,Coastal,1987,20,0.0,0.0,2022,4.7,4.9,5.0,5.0
+103,81,Nobu Hotel,Miami Beach,United States,North America,Davidson Hotels & Resorts,96.22,81,206,Medium,Beachfront,1957,20,0.0,0.0,2022,4.0,0.0,0.0,0.0
+104,82,The Shore Club,Long Bay Beach,Turks and Caicos Islands,Caribbean,The Hartling Group,96.22,82,110,Small,Beachfront,2016,21,0.0,0.0,2022,4.4,4.2,4.2,4.0
+105,83,Taj Holiday Village Resort & Spa,Goa,India,Southeast Asia,India Hotels Company Limited,96.21,83,142,Small,Beachfront,1978,20,1.0,12.0,2022,4.7,3.9,4.7,4.7
+106,113,Taj Holiday Village Resort & Spa,Goa,India,Southeast Asia,India Hotels Company Limited,98.76,12,142,Small,Coastal,1978,20,0.0,0.0,2021,4.7,3.9,4.7,4.7
+107,84,Mandarin Oriental Bangkok,Bangkok,Thailand,Southeast Asia,Jardine Matheson,96.18,84,331,Big,Contemporary ,1876,19,1.0,41.0,2022,4.7,4.3,4.2,4.4
+108,144,Mandarin Oriental Bangkok,Bangkok,Thailand,Southeast Asia,Jardine Matheson,97.87,41,331,Big,Contemporary ,1876,19,0.0,0.0,2021,4.7,4.3,4.2,4.4
+109,85,Auberge Saint-Antoine,Quebec City,Canada,North America,Price family,96.18,85,95,Small,Manor,1992,20,0.0,0.0,2022,4.8,4.3,4.9,4.5
+110,86,Rosewood Miramar Beach,Montecito,United States,North America,Caruso,96.14,86,161,Medium,Beachfront,2018,21,0.0,0.0,2022,4.5,0.0,0.0,0.0
+111,87,Rio Celeste Hideaway Hotel,Guanacaste,Costa Rica,Latin America,Angelo Zaragovia (brainchild),96.0,87,26,Small,Nature,2010,21,0.0,0.0,2022,4.7,4.5,4.8,4.8
+112,88,Hotel Caesar Augustus,Anacapri,Italy,Europe,Signorini family,96.0,87,55,Small,Coastal,1940,20,0.0,0.0,2022,4.8,4.2,5.0,4.6
+113,89,Grand Hotel Villa Serbelloni,Bellagio,Italy,Europe,Bucher family,96.0,87,95,Small,Palace,1873,19,0.0,0.0,2022,4.6,3.7,4.8,4.2
+114,90,Le Bristol Paris,Paris,France,Europe,Oetker Collection,96.0,87,190,Medium,Palace,1925,20,1.0,80.0,2022,4.7,3.8,4.9,4.6
+115,182,Le Bristol Paris,Paris,France,Europe,Oetker Collection,97.0,80,190,Medium,Palace,1925,20,0.0,0.0,2021,4.7,3.8,4.9,4.6
+116,91,Shangri-La Bosphorus,Istanbul,Turkey,Middle East,Kerry Properties,95.9,91,186,Medium,Palace,1929,20,0.0,0.0,2022,4.6,4.2,4.4,4.3
+117,92,The Palms Turks & Caicos,Grace Bay Beach,Turks and Caicos Islands,Caribbean,The Hartling Group,95.86,92,72,Small,Beachfront,2004,21,0.0,0.0,2022,4.5,3.8,4.2,3.6
+118,93,"The Lodge at Blue Sky, Auberge Resorts Collection",Park City,United States,North America,Phillips family,95.85,93,46,Small,Lodge,2018,21,0.0,0.0,2022,4.7,0.0,0.0,0.0
+119,94,Little Palm Island Resort & Spa,Little Torch Key,United States,North America,Noble House Hotels and Resorts,95.83,94,30,Small,Island,1989,20,0.0,0.0,2022,4.6,3.3,4.3,0.0
+120,95,Le Sirenuse,Positano,Italy,Europe,Sersale family,95.81,95,58,Small,Coastal,1951,20,0.0,0.0,2022,4.6,4.6,5.0,4.7
+121,96,andBeyond Ngorongoro Crater Lodge,Ngorongoro Conservation Area,Tanzania,Africa,andBeyond,95.8,96,30,Small,Safari,1996,20,0.0,0.0,2022,4.7,0.0,0.0,0.0
+122,97,Casa San Agustín,Cartagena,Colombia,Latin America,Casa San Agustín,95.79,97,31,Small,Boutique ,1700,18,0.0,0.0,2022,4.6,4.4,4.8,4.7
+123,98,The Connaught,London,England,Europe,Maybourne Hotel Group,95.79,97,121,Small,Contemporary ,1897,19,0.0,0.0,2022,4.7,3.8,5.0,4.4
+124,99,Wentworth Mansion,Charleston,United States,North America,Richard Widman,95.78,99,21,Small,Manor,1886,19,0.0,0.0,2022,4.8,4.3,4.4,4.7
+125,100,Taj Lands End,Mumbai,India,Southeast Asia,Indian Hotels Company Limited,95.73,100,488,Big,Contemporary ,1999,20,0.0,0.0,2022,4.6,4.2,4.6,4.4
+126,101,Birkenhead House,Hermanus,South Africa,Africa,The Royal Portfolio,95.73,100,11,Small,Coastal,1952,20,0.0,0.0,2022,4.8,4.8,5.0,5.0
+127,102,Mahali Mzuri,Masai Mara,Kenya,Africa,Virgin Limited Edition,99.73,1,12,Small,Safari,2013,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+128,103,Nayara Tented Group,Arenal Volcano National Park,Costa Rica,Latin America,Nayara Resorts,99.58,2,29,Small,Nature,2019,21,0.0,0.0,2021,4.9,4.7,4.9,4.8
+129,104,The Opposite House,Beijing,China,Asia,Swire Properties,99.47,3,99,Small,Contemporary ,2009,21,0.0,0.0,2021,4.5,4.1,4.7,4.6
+130,105,Capella Bangkok,Bangkok,Thailand,Southeast Asia,Pontiac Land Group,99.38,4,101,Small,Contemporary ,2020,21,0.0,0.0,2021,4.7,4.5,4.0,4.7
+131,108,Kamalame Cay,Andros Island,Bahamas,Caribbean,David and Michael King-Hew,99.14,7,22,Small,Island,1996,20,0.0,0.0,2021,4.7,0.0,0.0,0.0
+132,110,The Temple House,Chengdu,China,Asia,Swire Properties,98.94,9,142,Small,Contemporary ,2003,21,0.0,0.0,2021,4.6,4.1,4.9,4.4
+133,112,Hotel Paracas,Paracas,Peru,Latin America,Marriott International,98.77,11,120,Small,Coastal,1944,20,0.0,0.0,2021,4.7,4.3,4.4,4.4
+134,114,"Savute Elephant Lodge, A Belmond Safari",Chobe National Park,Botswana,Africa,LVMH,98.75,13,12,Small,Safari,1992,20,0.0,0.0,2021,4.6,0.0,0.0,0.0
+135,116,Mandarin Oriental Milan,Milan,Italy,Europe,Jardine Matheson,98.67,15,104,Small,Contemporary ,2015,21,0.0,0.0,2021,4.7,3.5,4.8,4.5
+136,117,La Reserve Paris,Paris,France,Europe,Michel Reybier Hospitality Group,98.6,16,40,Small,Contemporary ,2015,21,0.0,0.0,2021,4.7,4.7,4.9,4.7
+137,118,Nobu Ryokan,Malibu,United States,North America," Chef Nobu, Robert De Niro, Meir Teper and Larry Ellison",98.59,17,16,Small,Coastal,2017,21,0.0,0.0,2021,4.5,0.0,0.0,0.0
+138,119,Soneva Fushi,Baa Atoll,Maldives,Southeast Asia,Soneva,98.59,17,64,Small,Island,1995,20,0.0,0.0,2021,4.8,0.0,0.0,0.0
+139,121,Alila Manggis,Bali,Indonesia,Southeast Asia,Hyatt,98.5,20,55,Small,Nature,2014,21,0.0,0.0,2021,4.6,3.9,4.4,4.8
+140,122,Phinda Vlei Lodge,KwaZulu Natal,South Africa,Africa,andBeyond,98.5,20,6,Small,Safari,1996,20,0.0,0.0,2021,4.8,0.0,0.0,0.0
+141,123,Il Sereno Lago di Como,Torno,Italy,Europe,Sereno Hotels,98.5,20,40,Small,Coastal,2016,21,0.0,0.0,2021,4.5,0.0,0.0,0.0
+142,126,Istanbul At Sultanahmet,Istanbul,Turkey,Middle East,Four Seasons,98.4,25,65,Small,Palace,1996,20,0.0,0.0,2021,4.7,4.9,4.7,4.6
+143,127,The Peninsula Manila,Manila,Philippines,Southeast Asia,Hongkong and Shanghai Hotels Ltd.,98.4,25,469,Big,Palace,1976,20,0.0,0.0,2021,4.7,4.2,4.2,4.6
+144,128,Hotel Il Pellicano,Porto Ercole,Italy,Europe,The Leading Hotels of the World Ltd.,98.32,27,47,Small,Coastal,1965,20,0.0,0.0,2021,4.7,3.8,4.7,4.1
+145,129,Hotel Fasano Boa Vista,Porto Feliz,Brazil ,Latin America,The Leading Hotels of the World Ltd.,98.25,28,39,Small,Nature,2003,21,0.0,0.0,2021,4.7,4.5,4.0,3.5
+146,130,Halekulani Okinawa,Okinawa,Japan,Asia,Mitsui Fudosan Group,98.21,29,360,Big,Coastal,2019,21,0.0,0.0,2021,4.5,4.6,4.0,4.3
+147,131,The Lake House on Canandaigua,New York,United States,North America,The Sands Family,98.14,30,124,Small,Nature,1962,20,0.0,0.0,2021,4.3,0.0,0.0,0.0
+148,132,Hyatt Regency Amritsar,Amritsar,India,Southeast Asia,Hyatt,98.14,31,248,Medium,Contemporary ,2008,21,0.0,0.0,2021,4.3,2.5,4.7,3.8
+149,133,Leela Palace Udaipur,Udaipur,India,Southeast Asia,Brookfield Asset Management,98.13,32,80,Small,Palace,2009,21,0.0,0.0,2021,4.7,4.5,4.6,4.3
+150,134,Nayara Gardens,Arenal Volcano National Park,Costa Rica,Latin America,Nayara Resorts,98.13,33,50,Small,Nature,2007,21,0.0,0.0,2021,4.9,4.7,4.8,4.8
+151,136,Rancho Valencia Resort & Spa,San Diego,United States,North America,Jacobs Family,98.03,35,49,Small,Nature,1989,20,0.0,0.0,2021,4.8,0.0,0.0,0.0
+152,138,The Oberoi Mumbai,Mumbai,India,Southeast Asia,The Oberoi Group,98.0,36,337,Big,Contemporary ,2004,21,0.0,0.0,2021,4.7,4.4,4.9,4.8
+153,139,Tierra Atacama Hotel & Spa,San Pedro de Atacama,Chile,Latin America,Tierra Hotels,98.0,36,32,Small,Nature,2011,21,0.0,0.0,2021,4.7,3.8,3.8,4.9
+154,140,Viceroy Riviera Maya,Playa del Carmen,Mexico,Latin America,Viceroy Hotel Group ,97.92,39,41,Small,Coastal,2006,21,0.0,0.0,2021,4.5,0.0,0.0,0.0
+155,141,St. Regis Istanbul,Istanbul,Turkey,Middle East,Marriott International,97.89,40,118,Small,Contemporary ,2015,21,0.0,0.0,2021,4.6,4.0,4.7,4.0
+156,142,Katikies Mykonos,Mikonos ,Greece,Europe,Nikos Pagonis,97.87,41,36,Small,Coastal,2018,21,0.0,0.0,2021,4.7,4.2,4.6,4.3
+157,143,The Lanesborough,London,England,Europe,Oetker Collection,97.87,41,93,Small,Palace,1991,20,0.0,0.0,2021,4.6,3.9,4.5,4.2
+158,145,The Roundtree,Amagansett,United States,North America,Sylvia Wong,97.87,41,10,Small,Nature,2020,21,0.0,0.0,2021,4.9,0.0,0.0,0.0
+159,146,Mashpi Lodge,Quito,Ecuador,Latin America,Roque Sevilla,97.76,45,24,Small,Nature,2012,21,0.0,0.0,2021,4.9,5.0,4.6,4.9
+160,147,Angama Mara,Mara Triangle,Kenya,Africa,Nicky and Steve Fitzgerald ,97.73,46,4,Small,Safari,2015,21,0.0,0.0,2021,4.7,5.0,5.0,5.0
+161,149,Grand Hotel Excelsior Vittoria,Sorrento,Italy,Europe,Guido Fiorentino,97.71,48,79,Small,Coastal,1834,19,0.0,0.0,2021,4.7,4.6,4.7,4.4
+162,150,Sumaq Machu Picchu Hotel,Aguas Calientes,Peru,Latin America,Clabe Andina,97.68,49,62,Small,Nature,2007,21,0.0,0.0,2021,4.6,4.2,4.5,4.0
+163,151,Las Ventanas al Paraíso,San José del Cabo,Mexico,Latin America,Rosewood Hotel Group ,97.68,50,83,Small,Coastal,1997,20,0.0,0.0,2021,4.8,0.0,0.0,0.0
+164,153,Viceroy Chicago,Chicago,United States,North America,Viceroy Hotel Group ,97.66,51,180,Medium,Contemporary ,2017,21,0.0,0.0,2021,4.6,0.0,0.0,0.0
+165,155,Singita Grumeti,Serengeti National Park,Tanzania,Africa,"Paul Tudor Jones, Luke Bailes",97.6,54,15,Small,Safari,2013,21,0.0,0.0,2021,4.9,0.0,0.0,0.0
+166,156,Four Seasons Bangkok,Bangkok,Thailand,Southeast Asia,Four Seasons,97.59,55,299,Medium,Contemporary ,2020,21,0.0,0.0,2021,4.7,3.9,4.2,4.6
+167,158,The Lodge & Spa at Brush Creek Ranch,Wyoming,United States,North America,Bruce and Beth White,97.56,57,44,Small,Nature,2010,21,0.0,0.0,2021,4.5,0.0,0.0,0.0
+168,160,St. Regis Florence,Florence,Italy,Europe,Marriott International,97.52,59,99,Small,Palace,1855,19,0.0,0.0,2021,4.7,4.3,4.7,4.4
+169,161,Mandarin Oriental Paris,Paris,France,Europe,Jardine Matheson,97.5,60,135,Small,Contemporary ,2011,21,0.0,0.0,2021,4.6,3.4,4.8,4.4
+170,162,Matetsi Victoria Falls,Matetsi,Zimbabwe,Africa,John Gardiner,97.5,60,18,Small,Safari,2016,21,0.0,0.0,2021,4.7,0.0,0.0,0.0
+171,163,Round Hill Hotel and Villas,Montego Bay,Jamaica,Caribbean,Ralph Lauren,97.49,62,36,Small,Coastal,1952,20,0.0,0.0,2021,4.6,4.9,5.0,4.9
+172,164,Khwai River Lodge,Moremi Game Reserve,Botswana,Africa,LVMH,97.47,63,15,Small,Safari,1971,20,0.0,0.0,2021,4.7,0.0,0.0,0.0
+173,165,Soneva Jani,Noonu Atoll,Maldives,Southeast Asia,Soneva,97.45,64,24,Small,Island,2016,21,0.0,0.0,2021,4.5,0.0,0.0,0.0
+174,167,Inn of the Five Graces,Santa Fe,United States,North America,Relais & Châteaux,97.41,66,25,Small,Contemporary ,1996,20,0.0,0.0,2021,4.8,4.9,4.0,4.6
+175,168,"Zadun, a Ritz-Carlton Reserve",San José del Cabo,Mexico,Latin America,Marriott International,97.41,66,115,Small,Coastal,2019,21,0.0,0.0,2021,4.7,0.0,0.0,0.0
+176,169,Mfuwe Lodge,South Luangwa National Park,Zambia,Africa,The Bushcamp Company,97.33,68,18,Small,Safari,1956,20,0.0,0.0,2021,4.5,4.2,5.0,5.0
+177,170,InterContinental Bora Bora Resort & Thalasso Spa,Bora Bora,French Polynesia,Oceania,InterContinental Hotels Group,97.33,68,84,Small,Island,2006,21,0.0,0.0,2021,4.8,4.7,4.4,4.8
+178,171,Banyan Tree Cabo Marqués,Acapulco,Mexico,Latin America,Banyan Tree Holdings Limited,97.3,70,45,Small,Coastal,2009,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+179,172,Ngala Safari Lodge,Kruger National Park Area,South Africa,Africa,andBeyond,97.26,71,20,Small,Safari,2020,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+180,173,Sasaab,Samburu,Kenya,Africa,The Safari Collection,97.26,71,9,Small,Safari,2007,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+181,174,The Sukhothai Bangkok,Bangkok,Thailand,Southeast Asia,HKR International,97.25,73,210,Medium,Palace,1991,20,0.0,0.0,2021,4.6,4.3,4.1,4.8
+182,175,The Oberoi Grand,Kolkata,India,Southeast Asia,The Oberoi Group,97.2,74,209,Medium,Palace,1890,19,0.0,0.0,2021,4.4,3.8,4.6,4.5
+183,176,Hôtel Plaza Athénée,Paris,France,Europe,Brunei Investment Agency,97.18,75,154,Medium,Palace,1913,20,0.0,0.0,2021,4.6,3.8,4.9,4.1
+184,177,Mahekal Beach Resort,Playa del Carmen,Mexico,Latin America,Mahekal Beach Resort,97.12,76,196,Medium,Coastal,1982,20,0.0,0.0,2021,4.5,0.0,0.0,0.0
+185,178,The Fullerton Hotel Singapore,Singapore,Singapore,Southeast Asia,Precious Treasure Pte,97.11,77,400,Big,Palace,2001,21,0.0,0.0,2021,4.6,4.3,4.8,4.2
+186,180,Casa Chameleon,Las Catalinas,Costa Rica,Caribbean,Nolan Reynolds International,97.05,79,21,Small,Coastal,2020,21,0.0,0.0,2021,4.7,4.7,4.4,2.6
+187,181,Hôtel Crillon Le Brave,Crillon-le-Brave,France,Europe,Maisons Pariente,97.0,80,34,Small,Nature,1988,20,0.0,0.0,2021,4.6,4.6,4.9,4.0
+188,184,Six Senses Laamu,Laamu Atoll,Maldives,Southeast Asia,Hotel Properties Limited,97.0,80,97,Small,Island,2011,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+189,186,The Wickaninnish Inn,British Columbia,Canada,North America,Wickaninnish Inn Ltd,97.0,80,75,Small,Coastal,1996,20,0.0,0.0,2021,4.4,4.7,4.8,4.1
+190,187,Penha Longa Resort,Sintra,Portugal,Europe,Marriott International,96.94,86,44,Small,Nature,1993,20,0.0,0.0,2021,4.7,3.5,4.2,3.8
+191,188,The St. Regis Bora Bora Resort,Bora Bora,French Polynesia,Oceania,Marriott International,96.89,87,90,Small,Island,2006,21,0.0,0.0,2021,4.8,4.3,4.7,4.3
+192,189,Lion Sands Game Reserve,Sabi Sand Game Reserve ,South Africa,Africa,MORE Family Collection,96.87,88,18,Small,Safari,1933,20,0.0,0.0,2021,4.9,4.6,5.0,4.8
+193,191,The Oyster Box,Umhlanga,South Africa,Africa,The Travel Corporation,96.85,90,86,Small,Coastal,1947,20,0.0,0.0,2021,4.7,3.8,4.9,4.4
+194,192,The Stafford,London,England,Europe,Britannia Hospitality Limited,96.75,91,107,Small,Contemporary ,1912,20,0.0,0.0,2021,4.7,3.5,4.9,4.7
+195,193,"Tambo del Inka, a Luxury Collection Resort & Spa",Urubamba ,Peru,Latin America,Marriott International,96.74,92,128,Small,Nature,2010,21,0.0,0.0,2021,4.8,4.6,3.8,4.2
+196,194,Cap Maison,Gros Islet,St. Lucia,Caribbean,Cap Maison Limited,96.73,93,49,Small,Coastal,2008,21,0.0,0.0,2021,4.7,4.0,4.3,4.0
+197,195,Tensing Pen,Negril,Jamaica,Caribbean,Sam Petros,96.73,93,22,Small,Coastal,1975,20,0.0,0.0,2021,4.7,4.6,4.6,4.3
+198,196,Hôtel Le Toiny,Anse de Toiny,St. Barthélemy,Caribbean, Charlie and Mandie Vere Nicoll,96.71,95,22,Small,Coastal,1992,20,0.0,0.0,2021,4.5,5.0,4.0,5.0
+199,197,Rosewood Mayakoba,Playa del Carmen,Mexico,Latin America,Rosewood Hotel Group ,96.7,96,129,Small,Coastal,2007,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+200,198,Canaves Oia Boutique Hotel,Santorini,Greece,Europe,The Chaidemenos' Family,96.69,97,18,Small,Coastal,1995,20,0.0,0.0,2021,4.9,0.0,0.0,0.0
+201,199,Montage Los Cabos,Cabo San Lucas,Mexico,Latin America,Montage International,96.68,98,122,Small,Coastal,2018,21,0.0,0.0,2021,4.8,0.0,0.0,0.0
+202,200,Badrutt's Palace Hotel,St. Moritz,Switzerland,Europe,Hansjürg and Anikó Badrutt.,96.67,99,157,Medium,Nature,1896,19,0.0,0.0,2021,4.7,4.4,4.8,4.4
