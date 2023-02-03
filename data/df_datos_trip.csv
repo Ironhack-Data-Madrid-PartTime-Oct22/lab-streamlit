@@ -1,0 +1,178 @@
+,Hotel,Trip_Rate,Trip_Location,Trip_Cleanliness,Trip_Service,Trip_Value
+0,Rosewood Castiglion del Bosco,5.0,4.7,4.9,4.8,4.4
+1,Grace Hotel,5.0,4.9,4.9,4.8,4.4
+2,Waldorf Astoria Maldives Ithaafushi,5.0,4.9,4.9,4.8,4.5
+3,Pickering House Inn,5.0,5.0,4.8,4.9,4.4
+4,One&Only Reethi Rah,5.0,4.8,4.9,4.8,4.2
+5,Royal Mansour Marrakech,4.5,4.9,4.9,4.7,4.3
+6,Capella Ubud,5.0,4.9,5.0,5.0,4.8
+7,The Lowell,4.0,4.5,4.3,3.7,3.6
+8,Hôtel Madame Rêve,4.5,4.6,4.6,4.6,4.3
+9,Rosewood Villa Magna,4.5,4.7,4.8,4.7,4.2
+10,The Oberoi New Delhi,5.0,4.6,4.8,4.8,4.3
+11,The Oberoi Udaivilas,5.0,4.9,4.9,4.8,4.6
+12,"Mandapa, a Ritz-Carlton Reserve",5.0,4.9,5.0,4.9,4.7
+13,Wilderness Safaris Bisate Lodge,4.5,4.3,4.6,4.9,4.5
+14,Portrait Firenze,5.0,5.0,4.9,4.9,4.6
+15,Raffles Istanbul,5.0,4.7,4.9,4.9,4.6
+16,The Oberoi Marrakech,5.0,4.8,5.0,5.0,4.9
+17,Capella Hanoi,5.0,5.0,5.0,5.0,4.7
+18,White Elephant Palm Beach,4.5,5.0,4.8,4.9,3.8
+19,The Loutrel,5.0,5.0,5.0,4.9,4.8
+20,Monasterio,5.0,4.9,4.9,4.8,4.3
+21,Sani Asterias,5.0,4.9,4.9,4.9,4.5
+22,Shangri-La the Shard,5.0,4.8,4.9,4.6,4.3
+23,Coquillade Provence Resort & Spa,4.5,4.8,4.8,4.7,4.3
+24,Taj Palace,4.5,4.5,4.7,4.6,4.3
+25,Pendry Chicago,4.5,4.9,4.9,4.8,4.6
+26,Nayara Tented Camp,5.0,4.9,4.9,4.9,4.8
+27,Hotel Belmar,4.5,4.6,4.7,4.7,4.4
+28,Royal Champagne Hôtel & Spa,4.5,4.9,4.9,4.6,4.4
+29,Under Canvas Mount Rushmore,4.5,4.8,4.7,4.7,4.2
+30,Riggs Washington D.C.,5.0,4.9,4.9,4.8,4.6
+31,Waldorf Astoria Los Cabos Pedregal,5.0,4.9,4.9,4.9,4.5
+32,The Oberoi Vanyavilas Wildlife Resort,5.0,4.9,5.0,5.0,4.7
+33,Canaves Oia Epitome ,5.0,4.8,4.9,4.9,4.6
+34,The Standard ,4.5,4.7,4.5,4.2,3.7
+35,The Oberoi Amarvilas,5.0,5.0,4.9,4.8,4.4
+36,Hotel Santa Caterina,4.5,4.5,4.7,4.6,4.3
+37,Raffles Grand Hotel d'Angkor,4.5,5.0,5.0,4.7,4.5
+38,Nihi Sumba,5.0,4.9,4.9,4.9,4.7
+39,La Réserve Paris,5.0,4.8,5.0,4.9,4.6
+40,Hotel de la Ville,5.0,5.0,5.0,4.8,4.5
+41,Il San Pietro di Positano,5.0,4.9,4.8,4.8,4.3
+42,Six Senses Yao Noi,5.0,4.9,4.9,4.8,4.5
+43,Finca Cortesin Hotel Golf & Spa,4.5,4.4,4.9,4.7,4.2
+44,Secret Bay,5.0,4.9,5.0,5.0,4.8
+45,Cape Grace,5.0,4.9,4.9,4.9,4.5
+46,Taj Lake Palace,5.0,4.9,4.9,4.9,4.5
+47,Taj Falaknuma Palace,4.5,4.6,4.9,4.8,4.5
+48,Alila Villas Uluwatu,4.5,4.5,4.8,4.8,4.4
+49,Manoir Hovey,4.5,4.9,4.8,4.8,4.4
+50,Six Senses Con Dao,4.5,4.8,4.7,4.7,4.2
+51,Cavas Wine Lodge,5.0,4.8,4.7,4.8,4.4
+52,Grand Hotel Tremezzo,5.0,4.9,4.9,4.8,4.2
+53,Nayara Springs,5.0,4.9,5.0,4.9,4.8
+54,Lodge on Little St. Simons Island,5.0,4.9,4.8,4.9,4.5
+55,Rancho Santana,5.0,4.8,4.9,4.8,4.7
+56,Amanpuri,4.5,4.8,4.8,4.6,4.0
+57,Mandarin Oriental Marrakech,5.0,4.7,4.9,4.8,4.5
+58,Namale Resort & Spa,5.0,4.8,4.8,4.9,4.5
+59,Gibb's Farm,5.0,4.7,4.9,4.8,4.5
+60,Jade Mountain,5.0,4.8,4.9,4.8,4.2
+61,Borgo Egnazia,4.5,4.3,4.9,4.5,4.0
+62,Four Seasons Hotel Kyoto,4.5,4.5,4.8,4.5,4.0
+63,San Ysidro Ranch,4.5,4.9,4.9,4.7,4.0
+64,The Goring,5.0,4.8,4.9,4.8,4.4
+65,The Oberoi Rajvilas,5.0,4.5,4.9,4.9,4.6
+66,Palm Island Resort,4.5,4.9,4.7,4.7,4.5
+67,Hotel Savoy,4.0,4.6,4.4,4.3,4.0
+68,Rambagh Palace,5.0,4.8,4.9,4.8,4.6
+69,Curtain Bluff,5.0,4.9,4.8,4.8,4.5
+70,"Morrison House Old Town Alexandria, Autograph Collection",4.5,4.8,4.8,4.7,4.3
+71,"The Lytle Park Hotel, Autograph Collection",5.0,4.9,4.9,4.9,4.8
+72,Twin Farms,5.0,4.8,4.9,4.8,4.3
+73,Deer Path Inn,5.0,4.9,5.0,5.0,4.7
+74,One&Only Nyungwe House,5.0,5.0,5.0,4.9,4.5
+75,W Santiago,4.0,4.6,4.5,4.2,3.8
+76,Shangri-La Singapore,4.5,4.4,4.7,4.7,4.2
+77,L'Ermitage Beverly Hills,4.5,4.8,4.9,4.8,4.5
+78,Silo Hotel,4.5,4.9,4.9,4.7,4.3
+79,Katikies Santorini,5.0,4.9,4.9,4.9,4.4
+80,Nobu Hotel,5.0,4.5,4.9,4.8,4.7
+81,The Shore Club,4.5,4.7,4.9,4.5,4.3
+82,Taj Holiday Village Resort & Spa,4.5,4.7,4.5,4.5,4.2
+83,Mandarin Oriental Bangkok,5.0,4.7,4.9,4.9,4.4
+84,Auberge Saint-Antoine,5.0,4.9,4.9,4.8,4.5
+85,Rosewood Miramar Beach,4.5,4.8,4.8,4.3,4.0
+86,Rio Celeste Hideaway Hotel,4.5,4.5,4.8,4.7,4.5
+87,Hotel Caesar Augustus,4.5,4.9,4.7,4.5,4.0
+88,Grand Hotel Villa Serbelloni,4.5,4.9,4.6,4.4,3.7
+89,Le Bristol Paris,5.0,4.9,4.9,4.9,4.4
+90,Shangri-La Bosphorus,4.5,4.6,4.7,4.7,4.3
+91,The Palms Turks & Caicos,4.5,4.9,4.8,4.6,4.3
+92,"The Lodge at Blue Sky, Auberge Resorts Collection",5.0,5.0,4.7,4.7,4.5
+93,Little Palm Island Resort & Spa,4.5,4.9,4.7,4.7,4.1
+94,Le Sirenuse,4.5,4.9,4.9,4.8,4.3
+95,andBeyond Ngorongoro Crater Lodge,5.0,4.9,4.8,4.8,4.4
+96,Casa San Agustín,5.0,4.9,4.9,4.9,4.6
+97,The Connaught,5.0,4.9,4.9,4.8,4.3
+98,Wentworth Mansion,5.0,4.6,4.8,4.9,4.6
+99,Taj Lands End,4.5,4.6,4.7,4.6,4.3
+100,Birkenhead House,5.0,4.9,4.9,4.9,4.6
+101,Mahali Mzuri,5.0,4.9,5.0,5.0,4.8
+102,Nayara Tented Group,5.0,4.9,4.9,4.9,4.8
+103,The Opposite House,5.0,4.8,4.8,4.8,4.4
+104,Capella Bangkok,5.0,4.8,5.0,4.9,4.8
+105,Kamalame Cay,4.5,4.8,4.6,4.6,4.3
+106,The Temple House,5.0,4.9,4.9,4.9,4.7
+107,Hotel Paracas,4.5,4.6,4.8,4.6,4.3
+108,"Savute Elephant Lodge, A Belmond Safari",4.5,4.9,4.9,4.9,4.5
+109,Mandarin Oriental Milan,5.0,4.9,4.9,4.8,4.5
+110,La Reserve Paris,5.0,4.8,5.0,4.9,4.6
+111,Nobu Ryokan,4.5,5.0,4.8,4.6,3.6
+112,Soneva Fushi,5.0,4.9,4.9,4.9,4.6
+113,Alila Manggis,4.5,4.3,4.7,4.8,4.4
+114,Phinda Vlei Lodge,5.0,4.9,4.9,4.9,4.6
+115,Il Sereno Lago di Como,4.5,4.8,4.8,4.5,4.0
+116,Istanbul At Sultanahmet,5.0,4.9,4.9,4.9,4.4
+117,The Peninsula Manila,4.5,4.6,4.6,4.6,4.2
+118,Hotel Il Pellicano,4.5,4.8,4.8,4.7,3.9
+119,Hotel Fasano Boa Vista,4.5,4.7,4.7,4.6,3.9
+120,Halekulani Okinawa,4.5,4.3,4.6,4.0,3.6
+121,The Lake House on Canandaigua,4.5,4.8,4.8,4.2,3.8
+122,Hyatt Regency Amritsar,4.0,4.3,4.4,4.2,4.1
+123,Leela Palace Udaipur,5.0,4.9,4.9,4.9,4.5
+124,Nayara Gardens,5.0,4.8,4.9,4.9,4.7
+125,Rancho Valencia Resort & Spa,4.5,4.7,4.9,4.8,4.3
+126,The Oberoi Mumbai,5.0,4.8,4.9,4.8,4.5
+127,Tierra Atacama Hotel & Spa,5.0,4.8,4.8,4.8,4.4
+128,Viceroy Riviera Maya,4.5,4.6,4.8,4.8,4.3
+129,St. Regis Istanbul,4.5,4.8,4.8,4.8,4.6
+130,Katikies Mykonos,4.5,4.7,4.9,4.9,4.5
+131,The Lanesborough,5.0,4.9,4.9,4.9,4.6
+132,The Roundtree,4.5,4.8,4.5,4.7,4.3
+133,Mashpi Lodge,5.0,4.9,4.9,4.9,4.6
+134,Angama Mara,5.0,5.0,4.9,4.9,4.8
+135,Grand Hotel Excelsior Vittoria,5.0,5.0,4.9,4.8,4.4
+136,Sumaq Machu Picchu Hotel,4.5,4.7,4.8,4.8,4.3
+137,Las Ventanas al Paraíso,5.0,4.9,4.9,4.9,4.4
+138,Viceroy Chicago,4.5,4.9,4.8,4.7,4.5
+139,Singita Grumeti,5.0,5.0,4.9,4.9,4.6
+140,Four Seasons Bangkok,4.5,4.6,4.9,4.6,4.3
+141,The Lodge & Spa at Brush Creek Ranch,5.0,4.9,4.9,4.9,4.6
+142,St. Regis Florence,5.0,4.8,4.9,4.8,4.4
+143,Mandarin Oriental Paris,5.0,4.9,4.9,4.8,4.4
+144,Matetsi Victoria Falls,5.0,4.8,5.0,5.0,4.9
+145,Round Hill Hotel and Villas,5.0,4.8,4.8,4.7,4.3
+146,Khwai River Lodge,4.5,4.9,4.9,4.8,4.4
+147,Soneva Jani,5.0,4.8,4.9,4.8,4.6
+148,Inn of the Five Graces,5.0,5.0,4.9,4.9,4.6
+149,"Zadun, a Ritz-Carlton Reserve",4.5,4.7,4.6,4.7,4.5
+150,Mfuwe Lodge,5.0,4.9,4.9,4.9,4.7
+151,InterContinental Bora Bora Resort & Thalasso Spa,4.5,4.9,4.8,4.6,4.2
+152,Banyan Tree Cabo Marqués,5.0,4.8,4.8,4.7,4.3
+153,Ngala Safari Lodge,5.0,4.8,4.9,4.9,4.7
+154,Sasaab,5.0,4.8,4.9,4.9,4.8
+155,The Sukhothai Bangkok,4.5,4.3,4.8,4.7,4.4
+156,The Oberoi Grand,5.0,4.8,4.8,4.8,4.5
+157,Hôtel Plaza Athénée,4.5,4.9,4.9,4.8,4.4
+158,Mahekal Beach Resort,4.5,4.8,4.8,4.7,4.4
+159,The Fullerton Hotel Singapore,4.5,4.8,4.7,4.5,4.1
+160,Casa Chameleon,5.0,4.9,5.0,4.9,4.7
+161,Hôtel Crillon Le Brave,4.5,4.9,4.9,4.6,4.2
+162,Six Senses Laamu,5.0,4.8,4.9,4.9,4.5
+163,The Wickaninnish Inn,4.5,4.9,4.8,4.7,4.2
+164,Penha Longa Resort,4.5,4.6,4.8,4.6,4.3
+165,The St. Regis Bora Bora Resort,5.0,4.9,4.8,4.7,4.3
+166,Lion Sands Game Reserve,5.0,4.9,4.9,4.9,4.7
+167,The Oyster Box,5.0,5.0,4.9,4.9,4.5
+168,The Stafford,5.0,4.9,4.8,4.8,4.4
+169,"Tambo del Inka, a Luxury Collection Resort & Spa",5.0,4.7,5.0,4.8,4.6
+170,Cap Maison,4.5,4.7,4.7,4.6,4.3
+171,Tensing Pen,5.0,4.8,4.7,4.6,4.5
+172,Hôtel Le Toiny,4.5,4.8,4.8,4.7,4.7
+173,Rosewood Mayakoba,5.0,4.8,4.9,4.9,4.5
+174,Canaves Oia Boutique Hotel,5.0,4.9,4.8,4.8,4.4
+175,Montage Los Cabos,5.0,4.9,4.9,5.0,4.6
+176,Badrutt's Palace Hotel,5.0,4.9,4.9,4.8,4.4
