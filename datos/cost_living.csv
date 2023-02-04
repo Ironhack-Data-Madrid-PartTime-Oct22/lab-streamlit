@@ -1,0 +1,613 @@
+,countries,cost_living_index,year
+0,bermuda,146.2,2017
+1,switzerland,122.1,2017
+2,iceland,111.7,2017
+3,norway,106.3,2017
+4,bahamas,104.0,2017
+5,us virgin islands,85.9,2017
+6,japan,85.3,2017
+7,italy,83.7,2017
+8,denmark,83.0,2017
+9,singapore,82.4,2017
+10,new zealand,80.8,2017
+11,australia,80.7,2017
+12,hong kong,80.0,2017
+13,israel,77.7,2017
+14,luxembourg,77.3,2017
+15,ireland,77.0,2017
+16,sweden,75.9,2017
+17,united states,75.4,2017
+18,south korea,75.4,2017
+19,belgium,75.4,2017
+20,kuwait,75.2,2017
+21,france,74.9,2017
+22,finland,73.1,2017
+23,netherlands,72.5,2017
+24,austria,71.5,2017
+25,uruguay,70.3,2017
+26,canada,70.2,2017
+27,puerto rico,69.6,2017
+28,united kingdom,69.5,2017
+29,qatar,69.2,2017
+30,united arab emirates,68.0,2017
+31,germany,65.5,2017
+32,malta,62.8,2017
+33,macao,62.6,2017
+34,lebanon,61.7,2017
+35,taiwan,61.4,2017
+36,ghana,60.5,2017
+37,jordan,59.2,2017
+38,costa rica,58.6,2017
+39,bahrain,57.8,2017
+40,jamaica,56.9,2017
+41,panama,56.9,2017
+42,trinidad and tobago,56.2,2017
+43,greece,55.9,2017
+44,belize,55.8,2017
+45,mongolia,55.6,2017
+46,spain,55.0,2017
+47,cyprus,54.1,2017
+48,palestine,53.5,2017
+49,slovenia,53.2,2017
+50,fiji,53.1,2017
+51,brazil,53.1,2017
+52,oman,52.6,2017
+53,argentina,52.6,2017
+54,dominican republic,52.1,2017
+55,zimbabwe,51.6,2017
+56,mauritius,50.4,2017
+57,chile,50.1,2017
+58,estonia,49.5,2017
+59,portugal,49.2,2017
+60,tanzania,48.5,2017
+61,saudi arabia,48.4,2017
+62,croatia,48.0,2017
+63,latvia,47.8,2017
+64,honduras,47.4,2017
+65,iraq,47.0,2017
+66,cambodia,46.8,2017
+67,lithuania,46.7,2017
+68,namibia,46.5,2017
+69,ecuador,46.1,2017
+70,guatemala,46.0,2017
+71,el salvador,45.9,2017
+72,libya,45.8,2017
+73,ethiopia,45.7,2017
+74,slovakia,44.9,2017
+75,china,44.8,2017
+76,zambia,44.7,2017
+77,thailand,43.7,2017
+78,south africa,43.1,2017
+79,hungary,42.8,2017
+80,russia,42.0,2017
+81,czech republic,41.2,2017
+82,indonesia,41.1,2017
+83,malaysia,40.2,2017
+84,vietnam,40.1,2017
+85,peru,39.5,2017
+86,montenegro,39.3,2017
+87,kenya,39.0,2017
+88,bolivia,38.7,2017
+89,turkey,38.6,2017
+90,venezuela,38.3,2017
+91,iran,38.3,2017
+92,poland,38.1,2017
+93,nigeria,36.8,2017
+94,bulgaria,36.5,2017
+95,bangladesh,36.1,2017
+96,romania,35.6,2017
+97,morocco,35.5,2017
+98,bosnia and herzegovina,35.0,2017
+99,philippines,34.7,2017
+100,colombia,34.4,2017
+101,uganda,34.1,2017
+102,armenia,33.9,2017
+103,belarus,33.8,2017
+104,serbia,33.8,2017
+105,sri lanka,33.5,2017
+106,albania,32.4,2017
+107,algeria,32.4,2017
+108,north macedonia,30.9,2017
+109,kazakhstan,30.7,2017
+110,nepal,30.0,2017
+111,mexico,29.8,2017
+112,tunisia,28.7,2017
+113,moldova,28.4,2017
+114,syria,28.3,2017
+115,azerbaijan,27.8,2017
+116,georgia,27.4,2017
+117,pakistan,27.2,2017
+118,ukraine,26.2,2017
+119,india,25.1,2017
+120,egypt,22.4,2017
+121,bermuda,144.9,2018
+122,switzerland,131.4,2018
+123,iceland,124.0,2018
+124,norway,113.7,2018
+125,bahamas,100.7,2018
+126,luxembourg,96.6,2018
+127,denmark,93.3,2018
+128,singapore,91.4,2018
+129,japan,86.6,2018
+130,israel,86.5,2018
+131,ireland,85.4,2018
+132,australia,84.3,2018
+133,france,83.9,2018
+134,sweden,83.7,2018
+135,new zealand,83.4,2018
+136,belgium,83.3,2018
+137,south korea,82.9,2018
+138,netherlands,82.7,2018
+139,finland,81.7,2018
+140,austria,81.5,2018
+141,italy,79.1,2018
+142,hong kong,78.7,2018
+143,united kingdom,75.8,2018
+144,germany,74.3,2018
+145,united states,73.0,2018
+146,canada,72.5,2018
+147,malta,70.9,2018
+148,united arab emirates,67.2,2018
+149,puerto rico,67.0,2018
+150,uruguay,66.9,2018
+151,taiwan,65.4,2018
+152,qatar,65.4,2018
+153,greece,63.2,2018
+154,spain,61.8,2018
+155,jamaica,60.6,2018
+156,cyprus,60.3,2018
+157,lebanon,60.2,2018
+158,ghana,59.8,2018
+159,slovenia,59.6,2018
+160,bahrain,59.6,2018
+161,palestine,58.2,2018
+162,estonia,57.6,2018
+163,kuwait,56.9,2018
+164,costa rica,56.2,2018
+165,portugal,55.9,2018
+166,chile,55.2,2018
+167,jordan,55.1,2018
+168,croatia,55.1,2018
+169,mauritius,55.0,2018
+170,trinidad and tobago,54.6,2018
+171,argentina,53.7,2018
+172,latvia,53.4,2018
+173,lithuania,53.2,2018
+174,panama,52.4,2018
+175,brazil,51.3,2018
+176,slovakia,50.4,2018
+177,czech republic,50.1,2018
+178,zimbabwe,49.5,2018
+179,oman,49.3,2018
+180,thailand,48.9,2018
+181,hungary,48.6,2018
+182,south africa,48.1,2018
+183,dominican republic,47.9,2018
+184,el salvador,47.9,2018
+185,saudi arabia,47.9,2018
+186,ethiopia,47.5,2018
+187,guatemala,46.9,2018
+188,zambia,46.5,2018
+189,cambodia,45.9,2018
+190,poland,45.2,2018
+191,tanzania,45.0,2018
+192,malaysia,44.7,2018
+193,china,44.6,2018
+194,montenegro,44.4,2018
+195,ecuador,44.3,2018
+196,honduras,44.3,2018
+197,russia,43.9,2018
+198,iraq,43.9,2018
+199,turkey,41.8,2018
+200,bulgaria,41.2,2018
+201,indonesia,39.7,2018
+202,romania,39.7,2018
+203,peru,39.6,2018
+204,serbia,39.6,2018
+205,vietnam,39.4,2018
+206,bosnia and herzegovina,39.3,2018
+207,kenya,38.7,2018
+208,albania,37.9,2018
+209,morocco,37.1,2018
+210,bolivia,36.5,2018
+211,philippines,36.0,2018
+212,colombia,35.3,2018
+213,north macedonia,34.8,2018
+214,nigeria,34.7,2018
+215,iran,34.6,2018
+216,sri lanka,34.3,2018
+217,kazakhstan,34.3,2018
+218,belarus,34.1,2018
+219,mexico,33.6,2018
+220,armenia,33.5,2018
+221,moldova,33.1,2018
+222,uganda,32.7,2018
+223,nepal,32.6,2018
+224,venezuela,32.2,2018
+225,algeria,32.1,2018
+226,bangladesh,32.0,2018
+227,azerbaijan,30.6,2018
+228,georgia,29.7,2018
+229,kosovo (disputed territory),29.4,2018
+230,syria,27.8,2018
+231,tunisia,27.7,2018
+232,india,26.9,2018
+233,ukraine,26.0,2018
+234,egypt,25.7,2018
+235,pakistan,25.1,2018
+236,switzerland,121.2,2019
+237,iceland,101.9,2019
+238,norway,101.0,2019
+239,bahamas,92.4,2019
+240,luxembourg,86.1,2019
+241,japan,83.3,2019
+242,denmark,81.4,2019
+243,hong kong,78.1,2019
+244,south korea,76.9,2019
+245,ireland,75.3,2019
+246,france,74.9,2019
+247,netherlands,74.8,2019
+248,israel,74.3,2019
+249,belgium,73.0,2019
+250,finland,72.8,2019
+251,new zealand,72.6,2019
+252,australia,72.1,2019
+253,austria,71.8,2019
+254,sweden,71.6,2019
+255,united states,69.9,2019
+256,singapore,69.8,2019
+257,italy,69.2,2019
+258,germany,67.6,2019
+259,united kingdom,65.3,2019
+260,canada,65.0,2019
+261,puerto rico,63.8,2019
+262,malta,63.3,2019
+263,taiwan,59.8,2019
+264,qatar,59.1,2019
+265,jamaica,58.8,2019
+266,lebanon,58.1,2019
+267,uruguay,57.3,2019
+268,bahrain,56.7,2019
+269,greece,56.7,2019
+270,united arab emirates,56.2,2019
+271,cyprus,55.6,2019
+272,jordan,55.0,2019
+273,spain,54.7,2019
+274,slovenia,52.5,2019
+275,mauritius,52.4,2019
+276,myanmar,52.4,2019
+277,trinidad and tobago,52.1,2019
+278,zimbabwe,51.6,2019
+279,kuwait,51.5,2019
+280,panama,51.4,2019
+281,ghana,51.1,2019
+282,estonia,51.0,2019
+283,fiji,50.9,2019
+284,costa rica,50.9,2019
+285,portugal,50.4,2019
+286,palestine,50.2,2019
+287,belize,49.4,2019
+288,latvia,49.2,2019
+289,croatia,49.2,2019
+290,chile,47.7,2019
+291,saudi arabia,47.6,2019
+292,thailand,47.5,2019
+293,cambodia,46.8,2019
+294,oman,46.2,2019
+295,el salvador,46.1,2019
+296,lithuania,45.9,2019
+297,nicaragua,45.8,2019
+298,czech republic,45.1,2019
+299,slovakia,45.0,2019
+300,dominican republic,44.9,2019
+301,namibia,43.2,2019
+302,brazil,42.8,2019
+303,south africa,42.5,2019
+304,honduras,42.1,2019
+305,hungary,42.0,2019
+306,ecuador,42.0,2019
+307,guatemala,41.7,2019
+308,cuba,40.5,2019
+309,iraq,39.6,2019
+310,montenegro,39.6,2019
+311,malaysia,39.4,2019
+312,china,39.2,2019
+313,poland,39.1,2019
+314,kenya,38.2,2019
+315,vietnam,37.7,2019
+316,bulgaria,37.2,2019
+317,peru,37.2,2019
+318,romania,36.5,2019
+319,indonesia,36.2,2019
+320,albania,36.2,2019
+321,iran,35.8,2019
+322,bosnia and herzegovina,35.7,2019
+323,russia,35.5,2019
+324,serbia,35.4,2019
+325,turkey,35.2,2019
+326,philippines,35.1,2019
+327,tanzania,34.7,2019
+328,bolivia,34.4,2019
+329,morocco,34.0,2019
+330,belarus,33.1,2019
+331,argentina,33.1,2019
+332,mexico,32.7,2019
+333,armenia,32.5,2019
+334,paraguay,32.3,2019
+335,moldova,32.3,2019
+336,bangladesh,31.8,2019
+337,north macedonia,31.6,2019
+338,nigeria,31.2,2019
+339,algeria,30.6,2019
+340,uganda,30.3,2019
+341,sri lanka,30.2,2019
+342,colombia,30.1,2019
+343,kazakhstan,29.8,2019
+344,nepal,29.6,2019
+345,azerbaijan,29.1,2019
+346,georgia,28.8,2019
+347,ukraine,27.9,2019
+348,uzbekistan,27.1,2019
+349,egypt,26.5,2019
+350,kosovo (disputed territory),26.2,2019
+351,venezuela,25.7,2019
+352,india,24.2,2019
+353,tunisia,23.7,2019
+354,pakistan,20.4,2019
+355,switzerland,121.2,2020
+356,iceland,101.9,2020
+357,norway,101.0,2020
+358,bahamas,92.4,2020
+359,luxembourg,86.1,2020
+360,japan,83.3,2020
+361,denmark,81.4,2020
+362,hong kong,78.1,2020
+363,south korea,76.9,2020
+364,ireland,75.3,2020
+365,france,74.9,2020
+366,netherlands,74.8,2020
+367,israel,74.3,2020
+368,belgium,73.0,2020
+369,finland,72.8,2020
+370,new zealand,72.6,2020
+371,australia,72.1,2020
+372,austria,71.8,2020
+373,sweden,71.6,2020
+374,united states,69.9,2020
+375,singapore,69.8,2020
+376,italy,69.2,2020
+377,germany,67.6,2020
+378,united kingdom,65.3,2020
+379,canada,65.0,2020
+380,puerto rico,63.8,2020
+381,malta,63.3,2020
+382,taiwan,59.8,2020
+383,qatar,59.1,2020
+384,jamaica,58.8,2020
+385,lebanon,58.1,2020
+386,uruguay,57.3,2020
+387,bahrain,56.7,2020
+388,greece,56.7,2020
+389,united arab emirates,56.2,2020
+390,cyprus,55.6,2020
+391,jordan,55.0,2020
+392,spain,54.7,2020
+393,slovenia,52.5,2020
+394,mauritius,52.4,2020
+395,myanmar,52.4,2020
+396,trinidad and tobago,52.1,2020
+397,zimbabwe,51.6,2020
+398,kuwait,51.5,2020
+399,panama,51.4,2020
+400,ghana,51.1,2020
+401,estonia,51.0,2020
+402,fiji,50.9,2020
+403,costa rica,50.9,2020
+404,portugal,50.4,2020
+405,palestine,50.2,2020
+406,belize,49.4,2020
+407,latvia,49.2,2020
+408,croatia,49.2,2020
+409,chile,47.7,2020
+410,saudi arabia,47.6,2020
+411,thailand,47.5,2020
+412,cambodia,46.8,2020
+413,oman,46.2,2020
+414,el salvador,46.1,2020
+415,lithuania,45.9,2020
+416,nicaragua,45.8,2020
+417,czech republic,45.1,2020
+418,slovakia,45.0,2020
+419,dominican republic,44.9,2020
+420,namibia,43.2,2020
+421,brazil,42.8,2020
+422,south africa,42.5,2020
+423,honduras,42.1,2020
+424,hungary,42.0,2020
+425,ecuador,42.0,2020
+426,guatemala,41.7,2020
+427,cuba,40.5,2020
+428,iraq,39.6,2020
+429,montenegro,39.6,2020
+430,malaysia,39.4,2020
+431,china,39.2,2020
+432,poland,39.1,2020
+433,kenya,38.2,2020
+434,vietnam,37.7,2020
+435,bulgaria,37.2,2020
+436,peru,37.2,2020
+437,romania,36.5,2020
+438,indonesia,36.2,2020
+439,albania,36.2,2020
+440,iran,35.8,2020
+441,bosnia and herzegovina,35.7,2020
+442,russia,35.5,2020
+443,serbia,35.4,2020
+444,turkey,35.2,2020
+445,philippines,35.1,2020
+446,tanzania,34.7,2020
+447,bolivia,34.4,2020
+448,morocco,34.0,2020
+449,belarus,33.1,2020
+450,argentina,33.1,2020
+451,mexico,32.7,2020
+452,armenia,32.5,2020
+453,paraguay,32.3,2020
+454,moldova,32.3,2020
+455,bangladesh,31.8,2020
+456,north macedonia,31.6,2020
+457,nigeria,31.2,2020
+458,algeria,30.6,2020
+459,uganda,30.3,2020
+460,sri lanka,30.2,2020
+461,colombia,30.1,2020
+462,kazakhstan,29.8,2020
+463,nepal,29.6,2020
+464,azerbaijan,29.1,2020
+465,georgia,28.8,2020
+466,ukraine,27.9,2020
+467,uzbekistan,27.1,2020
+468,egypt,26.5,2020
+469,kosovo (disputed territory),26.2,2020
+470,venezuela,25.7,2020
+471,india,24.2,2020
+472,tunisia,23.7,2020
+473,pakistan,20.4,2020
+474,bermuda,145.1,2021
+475,switzerland,131.7,2021
+476,norway,106.1,2021
+477,iceland,96.8,2021
+478,denmark,91.7,2021
+479,luxembourg,88.3,2021
+480,japan,87.8,2021
+481,israel,86.6,2021
+482,bahamas,85.8,2021
+483,singapore,85.6,2021
+484,australia,84.1,2021
+485,ireland,83.1,2021
+486,barbados,81.5,2021
+487,south korea,81.2,2021
+488,france,80.6,2021
+489,hong kong,79.9,2021
+490,sweden,79.2,2021
+491,new zealand,79.1,2021
+492,seychelles,78.9,2021
+493,netherlands,78.6,2021
+494,belgium,78.5,2021
+495,finland,77.5,2021
+496,lebanon,75.9,2021
+497,austria,75.5,2021
+498,malta,73.6,2021
+499,italy,73.1,2021
+500,united states,71.9,2021
+501,united kingdom,71.0,2021
+502,germany,70.6,2021
+503,canada,70.1,2021
+504,macao,69.6,2021
+505,puerto rico,69.5,2021
+506,taiwan,65.2,2021
+507,qatar,64.2,2021
+508,cyprus,64.0,2021
+509,united arab emirates,61.7,2021
+510,greece,61.0,2021
+511,slovenia,59.4,2021
+512,spain,59.1,2021
+513,bahrain,57.7,2021
+514,estonia,56.5,2021
+515,croatia,56.4,2021
+516,palestine,55.9,2021
+517,cuba,55.5,2021
+518,trinidad and tobago,55.5,2021
+519,ivory coast,54.6,2021
+520,ethiopia,54.3,2021
+521,panama,54.1,2021
+522,jamaica,53.2,2021
+523,portugal,52.9,2021
+524,latvia,52.9,2021
+525,mauritius,52.6,2021
+526,belize,52.4,2021
+527,jordan,52.2,2021
+528,suriname,51.9,2021
+529,zimbabwe,51.5,2021
+530,yemen,51.5,2021
+531,uruguay,51.1,2021
+532,costa rica,50.6,2021
+533,oman,50.2,2021
+534,saudi arabia,49.9,2021
+535,kuwait,49.4,2021
+536,brunei,49.4,2021
+537,chile,49.3,2021
+538,thailand,49.3,2021
+539,czech republic,49.2,2021
+540,slovakia,49.1,2021
+541,fiji,48.5,2021
+542,cambodia,47.9,2021
+543,lithuania,47.7,2021
+544,guatemala,44.8,2021
+545,el salvador,44.6,2021
+546,nicaragua,42.8,2021
+547,hungary,42.7,2021
+548,cameroon,42.6,2021
+549,china,42.5,2021
+550,honduras,42.2,2021
+551,poland,42.0,2021
+552,south africa,41.7,2021
+553,dominican republic,41.5,2021
+554,montenegro,41.4,2021
+555,iran,41.3,2021
+556,namibia,41.0,2021
+557,bulgaria,40.9,2021
+558,philippines,40.7,2021
+559,ghana,40.6,2021
+560,botswana,40.4,2021
+561,albania,40.2,2021
+562,ecuador,40.1,2021
+563,malaysia,39.5,2021
+564,serbia,39.2,2021
+565,bosnia and herzegovina,38.6,2021
+566,romania,38.5,2021
+567,myanmar,38.1,2021
+568,vietnam,38.0,2021
+569,argentina,37.9,2021
+570,indonesia,37.4,2021
+571,somalia,37.4,2021
+572,morocco,36.9,2021
+573,kenya,36.3,2021
+574,peru,36.3,2021
+575,bolivia,36.1,2021
+576,mozambique,35.9,2021
+577,mexico,35.1,2021
+578,tanzania,34.6,2021
+579,north macedonia,34.1,2021
+580,rwanda,34.1,2021
+581,bangladesh,33.3,2021
+582,mongolia,33.2,2021
+583,russia,33.2,2021
+584,iraq,32.7,2021
+585,moldova,32.7,2021
+586,uganda,32.2,2021
+587,brazil,31.8,2021
+588,armenia,31.7,2021
+589,turkey,31.5,2021
+590,sri lanka,31.3,2021
+591,colombia,31.0,2021
+592,azerbaijan,30.9,2021
+593,paraguay,30.7,2021
+594,belarus,30.7,2021
+595,egypt,30.1,2021
+596,kazakhstan,29.8,2021
+597,nigeria,29.7,2021
+598,tunisia,29.5,2021
+599,kosovo (disputed territory),29.4,2021
+600,ukraine,29.2,2021
+601,syria,29.0,2021
+602,nepal,28.9,2021
+603,algeria,28.3,2021
+604,zambia,28.1,2021
+605,georgia,28.0,2021
+606,uzbekistan,27.1,2021
+607,afghanistan,26.3,2021
+608,india,25.2,2021
+609,kyrgyzstan,23.0,2021
+610,libya,22.3,2021
+611,pakistan,21.6,2021
