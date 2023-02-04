@@ -41,8 +41,7 @@ def general_chart(df, playlist_input, column = 'valence', chart_type = 'boxplot'
 def general_kde(df, playlist_input, variable):
     df_filtered = df[df['chart'] == playlist_input]
     sns.set_theme(style="darkgrid")
-    sns.set(rc={'figure.figsize':(20,5)})
-    sns.kdeplot(data=df_filtered, x='playlist_date', hue = variable, multiple="fill", palette = 'pastel')
+    sns.kdeplot(data=df_filtered, x=df_filtered['playlist_date'], hue = df_filtered[variable], multiple="fill", palette = 'pastel')
     plt.tight_layout()
     plt.savefig(f'imagenes/general_kde_{variable}.png')
 
@@ -62,7 +61,7 @@ def music_lineplot(df, playlist_input, top_music, variable = 'valence'):
     plt.tight_layout()
     plt.savefig(f'imagenes/lineplot_genre_{variable}.png')
 
-def general_chart_genres(df, playlist_input, top_music, column = 'valence', chart_type = 'boxplot'):
+def general_chart_genres_old(df, playlist_input, top_music, column = 'valence', chart_type = 'boxplot'):
     valence = df[df['chart'] == playlist_input]#[['playlist_date', column]]#.groupby(['date'])['valence'].mean().reset_index()
     fig, axs = plt.subplots(ncols=len(top_music), nrows = len(df['playlist_date'].dt.year.unique().tolist()), figsize = (25,10), sharex=True,)
     list_years = valence.sort_values(by = ['playlist_date'])['playlist_date'].dt.year.unique().tolist()
@@ -84,7 +83,28 @@ def general_chart_genres(df, playlist_input, top_music, column = 'valence', char
     plt.tight_layout()
     plt.savefig(f'imagenes/genres_{chart_type}_{column}.png')
 
-def genre_kde(df, playlist_input, top_music, variable = 'key_mapped'):
+def general_chart_genres(df, playlist_input, top_music, column = 'valence', chart_type = 'boxplot'):
+    valence = df[df['chart'] == playlist_input]#[['playlist_date', column]]#.groupby(['date'])['valence'].mean().reset_index()
+    fig, axs = plt.subplots(ncols=1, nrows = len(df['playlist_date'].dt.year.unique().tolist()), figsize = (25,10), sharex=True,)
+    list_years = valence.sort_values(by = ['playlist_date'])['playlist_date'].dt.year.unique().tolist()
+    sns.set_theme(style="darkgrid")
+    for year in list_years:
+        if chart_type == 'boxplot':
+            sns.boxplot(data = valence[valence['playlist_date'].dt.year == year], 
+                x = valence[valence['playlist_date'].dt.year == year][column], 
+                ax = axs[list_years.index(year)], palette='flare')
+            axs[list_years.index(year)].set_title(str(year), fontsize=10, )
+            axs[list_years.index(year)].set_xlabel(top_music[0])
+        elif chart_type == 'violinplot':
+            sns.violinplot(data = valence[valence['playlist_date'].dt.year == year], 
+                x = valence[valence['playlist_date'].dt.year == year][column], 
+                ax = axs[list_years.index(year)], palette='flare')
+            axs[list_years.index(year)].set_title(str(year), fontsize=10, )
+            axs[list_years.index(year)].set_xlabel(top_music[0])
+    plt.tight_layout()
+    plt.savefig(f'imagenes/genres_{chart_type}_{column}.png')
+
+def genre_kde_old(df, playlist_input, top_music, variable = 'key_mapped'):
     df_filtered = df[df['chart'] == playlist_input]
     sns.set_theme(style="darkgrid")
     fig, axs = plt.subplots(ncols=len(top_music), nrows = 1, figsize = (25,5), sharex=True)
@@ -96,6 +116,17 @@ def genre_kde(df, playlist_input, top_music, variable = 'key_mapped'):
             multiple="fill", palette = 'pastel')
         axs[top_music.index(genre)].set_title(genre, fontsize=10, )
         axs[top_music.index(genre)].set_ylabel('')
+    plt.tight_layout()
+    plt.savefig(f'imagenes/genres_kde_{variable}.png')
+
+def genre_kde(df, playlist_input, top_music, variable = 'key_mapped'):
+    df_filtered = df[df['chart'] == playlist_input]
+    sns.set_theme(style="darkgrid")
+    data = df_filtered[df_filtered['music_genre'] == top_music[0]]
+    sns.kdeplot(data=data, 
+        x=data["playlist_date"], 
+        hue=variable,
+        multiple="fill", palette = 'pastel')
     plt.tight_layout()
     plt.savefig(f'imagenes/genres_kde_{variable}.png')
 

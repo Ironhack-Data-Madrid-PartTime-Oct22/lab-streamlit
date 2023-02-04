@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import src.soporteClean as sc
 import src.soporteImagenes as si
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 st.set_page_config(layout="wide", initial_sidebar_state="collapsed")
 
